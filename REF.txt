@@ -1,0 +1,5 @@
+#aws ci/cd 
+https://www.youtube.com/watch?v=WPVPZ0_qtE4
+
+#vscode with git
+https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be
